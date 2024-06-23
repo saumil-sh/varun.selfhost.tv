@@ -35,3 +35,5 @@ __This is bold text__
 _This is italic text_
 
 ~~Strikethrough~~
+
+Added via Jekyllpad
